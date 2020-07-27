@@ -1,0 +1,49 @@
+.body
+{
+  background-color:   #333;
+}
+.mainDiv{
+    max-width: 670px;
+}
+.navContainer{
+    padding-top: 15px;
+}
+
+.contentContainer{
+    padding-top: 185px;
+}
+.footerContainer{
+    padding-top: 210px;
+}
+
+nav{
+    margin-left: auto;
+}
+nav ul{
+font-weight: 700;
+}
+
+nav ul li:first-child {
+border-bottom: 4px solid white;
+}
+.nav-link{
+    padding: 10 0 px;
+}
+
+.contentContainer p{
+    font-size: 20px;
+    font-weight: 300;
+}
+.contentContainer p a{
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.footerSection{
+    font-size: 16px;
+    font-weight: 400;
+}
+.footerSection p{
+color:grey;
+}
